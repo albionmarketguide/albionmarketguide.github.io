@@ -1,0 +1,21 @@
+@font-face{
+	font-family: koch_fraktur;
+	src: url('../fonts/koch_fraktur.ttf');
+}
+
+header{
+	background: url('https://i.imgur.com/VbSDxXk.jpg');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
+.font{
+	font-family: koch_fraktur;
+	color: black;
+	font-size: 50px;
+}
+
+header div h1{
+	background:rgba(255,255,255, 0.5);
+}
